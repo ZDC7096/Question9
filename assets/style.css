@@ -31,6 +31,11 @@ header{
     position: relative;
     border-radius: 60px;
     margin: 1em;
+    font-family: fantasy;
+    font-size: 40px;
+}
+p{
+    text-align: center;
 }
 .answer{
     position: relative;

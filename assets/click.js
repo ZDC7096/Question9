@@ -1,4 +1,4 @@
-const btnD = document.getElementById('btnC');
+const btnD = document.getElementById('btnA');
         function clicked (){
-            document.getElementById("btnC").innerHTML = "CORRECT";
+            document.getElementById("btnA").innerHTML = "CORRECT";
     }
